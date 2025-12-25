@@ -11,3 +11,5 @@ Feautures:
 - Mobile-responsive layout
 - Progressive Web App
 
+TechStack:
+- HTML/CSS, JavaScript
